@@ -4,7 +4,7 @@
 
 ## 简介
 
-这是一个 **WorkBuddy Skill**，专用于生成 HM 学校（广州华美英语实验学校）品牌风格的 PowerPoint 演示文稿。
+这是一个 **WorkBuddy Skill**，专用于生成 HM 学校品牌风格的 PowerPoint 演示文稿。
 
 ## 适用场景
 
@@ -25,6 +25,10 @@
 | 浅灰底 | `#F2F2F2` | 内容页背景 |
 
 ## 使用方法
+
+**方法一：将压缩包给到 WorkBuddy，要求安装该 Skill。**
+
+**方法二：手动安装**
 
 1. 下载 `huamei-school-ppt-full.zip`
 2. 解压到 WorkBuddy skills 目录：`~/.workbuddy/skills/`
